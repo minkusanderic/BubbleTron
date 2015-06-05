@@ -1,0 +1,2 @@
+#define SDL_REVISION "hg-9152:9ecf775ead1b"
+#define SDL_REVISION_NUMBER 9152
